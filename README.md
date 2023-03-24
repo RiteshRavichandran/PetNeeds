@@ -2,6 +2,7 @@
 PetNeeds is a web application that helps pet owners keep track of their pets' needs, it provides a platform for offline pet shop owners to reach into the online market space.
 
 ## Features
+This list consists of a few features supported by the project.
 1. Support for a wide variety of pet products - Food and Accessory category are supported currently, much more can be added later.
 ![Landing Page](https://user-images.githubusercontent.com/72683075/227520885-32148720-22f2-494e-ba73-fa35ee38c0cb.png)
 
@@ -27,6 +28,7 @@ PetNeeds is a web application that helps pet owners keep track of their pets' ne
 ![Order List](https://user-images.githubusercontent.com/72683075/227521750-395066e5-07b7-4ebb-a8e8-15f008fa8d99.png)
 
 ## Installation
+Steps involved in the installation process.
 1. Clone the repository:
 ``` git clone https://github.com/RiteshRavichandran/PetNeeds ```
 2. You would need XAMPP virtual server to the the project localy.
