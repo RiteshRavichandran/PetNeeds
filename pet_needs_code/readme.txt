@@ -2,25 +2,25 @@ Free Download Source Code "pet_needs"
 
 FIRST Download
 
-1. XAMPP
+1. You would need XAMPP virtual server for testing purposes.
 
-2. "TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / Etc.
+2. Text editor notepad++ or Sublime or VS code.
 
-3. "pet_needs_code"
+3. Download & Extract the zip file using a zip archiver like 7zip.
 
-4. Download the zip file/ download winrar
+4. Extract the file and copy the “pet_needs_code” folder
 
-5. Extract the file and copy "pet_shop" folder
+5. Paste inside root directory/ where you install xampp local disk C: drive D: drive E: paste: for xampp/htdocs.
 
-6. Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
+6. Open PHPMyAdmin: 
+``` http://localhost/phpmyadmin ```
 
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
+7. Create database name pet_shop_db
 
-8. Create a database with name pet_shop_db
+8. Import pet_shop_db.sql file given inside the zip package in the SQL file folder
 
-6. Import pet_shop_db.sql file(given inside the zip package in SQL file folder)
-
-7. Run the script http:/pet_shop
+9. Run the script:
+``` http://localhost/pet_needs_code ```
 
 **LOGIN DETAILS** 
 
@@ -29,3 +29,4 @@ user: admin
 pass: admin123
 
 staff create your own
+
