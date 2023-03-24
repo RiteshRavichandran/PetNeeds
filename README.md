@@ -3,10 +3,10 @@ PetNeeds is a web application that helps pet owners keep track of their pets' ne
 
 ## Features
 1. Pet Owner Profile - A pet owner can create a profile to keep track of their desired products and order status.
-2. Support for a wide varity of pet-products - Food and Acessory catogory are supported currently, much more can be added later.
-3. A full fledge admin panel - inventory management, order management, user management and much more.
-4. Support for payment gateway - paypal API is currently supported.
-5. Support for multiple product sizes and curresponding pricesses.
+2. Support for a wide variety of pet products - Food and Accessory category are supported currently, much more can be added later.
+3. A full fledge admin panel - inventory management, order management, user management, and much more.
+4. Support for payment gateway - PayPal API is currently supported.
+5. Support for multiple product sizes and corresponding prices.
 6. Customer Management - Manage customer information such as name, address, and contact information.
 7. Sales Management - Record and track sales made by the pet shop.
 8. Purchase Management - Record and track purchases made by the pet shop.
@@ -15,14 +15,14 @@ PetNeeds is a web application that helps pet owners keep track of their pets' ne
 ## Installation
 1. Clone the repository:
 ``` git clone https://github.com/username/petneeds.git ```
-2. You would probably use XAMPP vertual server for testing purpose.
+2. You would probably use XAMPP virtual server for testing purposes.
 3. Text editor notepad++ or Sublime or VS code.
-4. Download the zip file/ Download winrar
-5. Extract the file and copy “pet_needs_code” folder
+4. Download the zip file/ Download WinRAR
+5. Extract the file and copy the “pet_needs_code” folder
 6. Paste inside root directory/ where you install xampp local disk C: drive D: drive E: paste: for xampp/htdocs,
 7. Open PHPMyAdmin http://localhost/phpmyadmin
 8. Create database name pet_shop_db
-9. Import pet_shop_db.sql file given inside the zip package in SQL file folder
+9. Import pet_shop_db.sql file given inside the zip package in the SQL file folder
 10. Run the script http://localhost/pet_needs_code
 11. Admin Panel- Username :admin / Password :admin123
 
