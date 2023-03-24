@@ -23,5 +23,5 @@
 ## LOGIN DETAILS
 
 ### Admin Login <br>
-user: admin <br>
-pass: admin123
+user: ``` admin ```<br>
+pass: ``` admin123 ```
