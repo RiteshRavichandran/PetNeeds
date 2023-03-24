@@ -23,24 +23,23 @@ PetNeeds is a web application that helps pet owners keep track of their pets' ne
 8. Support for payment gateway - PayPal API is currently supported.
 ![Check out](https://user-images.githubusercontent.com/72683075/227521866-6abd3b92-1d32-4ed5-93ba-350a9f046d71.png)
 
-9. Reports - Generate reports on sales, purchases, and inventory.
+9. Reports - Generate reports on sales, purchases,and inventory.
 ![Order List](https://user-images.githubusercontent.com/72683075/227521750-395066e5-07b7-4ebb-a8e8-15f008fa8d99.png)
 
 ## Installation
 1. Clone the repository:
 ``` git clone https://github.com/RiteshRavichandran/PetNeeds ```
-2. You would need XAMPP virtual server for testing purposes.
+2. You would need XAMPP virtual server to the the project localy.
 3. Text editor notepad++ or Sublime or VS code.
 4. Download & Extract the zip file using a zip archiver like 7zip.
-5. Extract the file and copy the “pet_needs_code” folder
-6. Paste inside root directory/ where you install xampp local disk C: drive D: drive E: paste: for xampp/htdocs,
-7. Open PHPMyAdmin: 
+5. Copy the “pet_needs_code” folder into the root directory/ where xampp is installed in local disk C: and paste it into xampp/htdocs folder.
+6. Open PHPMyAdmin: 
 ``` http://localhost/phpmyadmin ```
-9. Create database name pet_shop_db
-10. Import pet_shop_db.sql file given inside the zip package in the SQL file folder
-11. Run the script:
+7. Create database name pet_shop_db.
+8. Import pet_shop_db.sql file in the database folder.
+9. Run the script:
 ``` http://localhost/pet_needs_code ```
-13. Admin Panel <br> Username:``` admin ``` <br> Password:``` admin123 ```
+10. Admin Panel <br> Username:``` admin ``` <br> Password:``` admin123 ```
 
 ## Contributing
 If you would like to contribute to the development of PetNeeds, please follow the steps below:
