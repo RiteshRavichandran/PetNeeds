@@ -35,11 +35,11 @@ PetNeeds is a web application that helps pet owners keep track of their pets' ne
 5. Extract the file and copy the “pet_needs_code” folder
 6. Paste inside root directory/ where you install xampp local disk C: drive D: drive E: paste: for xampp/htdocs,
 7. Open PHPMyAdmin: 
-8. ``` http://localhost/phpmyadmin ```
+``` http://localhost/phpmyadmin ```
 9. Create database name pet_shop_db
 10. Import pet_shop_db.sql file given inside the zip package in the SQL file folder
 11. Run the script:
-12. ``` http://localhost/pet_needs_code ```
+``` http://localhost/pet_needs_code ```
 13. Admin Panel- Username :admin / Password :admin123
 
 ## Contributing
