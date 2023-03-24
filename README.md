@@ -1,5 +1,5 @@
 # PetNeeds
-PetNeeds is a web application that helps pet owners keep track of their pets' needs, it provides a platform for offline pet shop owners to reach into the online market space.
+PetNeeds is a web application that helps pet owners keep track of their pets' needs, it provides a platform for offline pet shop owners to reach into the online market space. It is a user-friendly system that allows pet shop owners to keep track and manage their inventory, customer information, sales, purchases, and stock levels.
 
 ## Features
 This list consists of a few features supported by the project:
