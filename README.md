@@ -29,7 +29,7 @@ PetNeeds is a web application that helps pet owners keep track of their pets' ne
 ## Installation
 1. Clone the repository:
 ``` git clone https://github.com/RiteshRavichandran/PetNeeds ```
-2. You would probably use XAMPP virtual server for testing purposes.
+2. You would need XAMPP virtual server for testing purposes.
 3. Text editor notepad++ or Sublime or VS code.
 4. Download & Extract the zip file using a zip archiver like 7zip.
 5. Extract the file and copy the “pet_needs_code” folder
