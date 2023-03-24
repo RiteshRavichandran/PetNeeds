@@ -40,7 +40,7 @@ PetNeeds is a web application that helps pet owners keep track of their pets' ne
 10. Import pet_shop_db.sql file given inside the zip package in the SQL file folder
 11. Run the script:
 ``` http://localhost/pet_needs_code ```
-13. Admin Panel <br> Username :admin <br> Password :admin123
+13. Admin Panel <br> Username:``` admin ``` <br> Password:``` admin123 ```
 
 ## Contributing
 If you would like to contribute to the development of PetNeeds, please follow the steps below:
