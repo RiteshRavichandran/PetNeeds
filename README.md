@@ -55,4 +55,4 @@ If you would like to contribute to the development of PetNeeds, please follow th
 5. Submit a pull request.
 
 ## License
-PetNeeds is licensed under the MIT License. See the LICENSE file for more information.
+PetNeeds is licensed under the [MIT License](https://github.com/RiteshRavichandran/PetNeeds/blob/main/LICENSE "MIT License"). See the LICENSE file for more information.
