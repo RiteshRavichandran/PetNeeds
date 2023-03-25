@@ -34,7 +34,7 @@ Steps involved in the installation process:
 2. You would need XAMPP virtual server to the the project localy.
 3. Text editor notepad++ or Sublime or VS code.
 4. Download & Extract the zip file using a zip archiver like 7zip.
-5. Copy the “pet_needs_code” folder into the root directory/ where xampp is installed in local disk C: and paste it into xampp/htdocs folder.
+5. Copy the “pet_needs_code” folder into the root directory/ where xampp is installed in local disk C: and paste it into ``` xampp/htdocs ``` folder.
 6. Open PHPMyAdmin: 
 ``` http://localhost/phpmyadmin ```
 7. Create database name pet_shop_db.
